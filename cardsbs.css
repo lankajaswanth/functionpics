@@ -1,0 +1,10 @@
+
+
+body{
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-white-lines-pink-background-image_269454.jpg");
+}
+
+.card{
+    border-radius: 0.5em;
+    border-style: inset;
+}
